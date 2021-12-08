@@ -1,0 +1,32 @@
+{
+  "name": "stimulus-ajax-filter",
+  "version": "1.0.0",
+  "description": "Stimulus based filtering for ajax queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spore2102/stimulus-ajax-filter.git"
+  },
+  "keywords": [
+    "stimulus",
+    "ajax",
+    "filtering",
+    "loading",
+    "filter",
+    "load",
+    "request"
+  ],
+  "author": "spore2102",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spore2102/stimulus-ajax-filter/issues"
+  },
+  "homepage": "https://github.com/spore2102/stimulus-ajax-filter#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "stimulus": "^3.0.1"
+  }
+}
